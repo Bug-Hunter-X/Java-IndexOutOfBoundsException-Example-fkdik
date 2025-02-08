@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates an IndexOutOfBoundsException, a common runtime exception in Java. The bug is in the for loop's condition. The solution provides a corrected version that prevents the exception.
